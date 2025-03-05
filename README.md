@@ -43,7 +43,7 @@ pip install torch torchvision torchaudio transformers datasets numpy pandas matp
 ## Usage Instructions
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/chordify-ai.git
+   git clone https://github.com/arjunghosh4/chordify-ai.git
    cd chordify-ai
    ```
 2. **Run the Data Simulation Notebook:**
